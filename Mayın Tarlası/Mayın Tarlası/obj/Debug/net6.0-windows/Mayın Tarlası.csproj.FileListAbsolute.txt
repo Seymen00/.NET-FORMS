@@ -1,0 +1,26 @@
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\Mayın Tarlası.exe
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\Mayın Tarlası.deps.json
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\Mayın Tarlası.runtimeconfig.json
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\Mayın Tarlası.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\Mayın Tarlası.pdb
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın_Tarlası.frmMT.resources
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.AssemblyInfoInputs.cache
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.AssemblyInfo.cs
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\refint\Mayın Tarlası.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.pdb
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.genruntimeconfig.cache
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\ref\Mayın Tarlası.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın_Tarlası.Properties.Resources.resources
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın_Tarlası.frmKazanma.resources
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.csproj.AssemblyReference.cache
+C:\Users\sungu\OneDrive\Masaüstü\Projeler\Mayın Tarlası\Mayın Tarlası\obj\Debug\net6.0-windows\Mayın Tarlası.csproj.CopyComplete
